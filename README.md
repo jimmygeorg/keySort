@@ -4,5 +4,5 @@ There is still some work to be done, but for now it can be used in conjunction w
 The main drawback is that the array must have at least as many cells as the value of the key element, since it's placed in the corresponding position.
 It is quite limiting for now but I'm planning to keep working on it and developing it further in order to eliminate that issue.
 
-**Line 31 is for test purposes, it's obviously meant for the desired key element**
+**Line 32 is for test purposes, it's obviously meant for the desired key element**
 # keySort
